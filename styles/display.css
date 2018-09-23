@@ -1,0 +1,18 @@
+figure {
+  /*outline: 2px solid red;*/
+  width: 900px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+figure img {
+  width: 765px;
+  height: 990px;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-family: 'Josefin Sans', serif;
+  margin: 20px auto;
+  text-align: center;
+}

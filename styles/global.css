@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma|Josefin+Sans:300');
+
+html {
+  background-color: #fff;
+  color: #000;
+  font-size: 16px;
+}
+
+body {
+  width: 960px;
+  margin: 0 auto;
+  /* border: 2px solid #ccc; */
+  font-family: 'Josefin Sans', serif;
+}
+
+h1 {
+  font-size: 1.3rem;
+  color: #334b78;
+  line-height: 1.5rem;
+}
+
+h2 {
+  font-size: 1rem;
+  color: #000;
+  line-height: 1rem;
+}
+
+header {
+  height: 92px;
+  margin: 20px;
+  text-align: center;
+}
+
+header img {
+  width: 800px;
+  height: 92px;
+}
+
+nav {
+  background-color: #7b94c5;
+  padding: 20px;
+  font-family: 'Michroma', sans-serif;
+  text-align: center;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+nav li {
+  display: inline;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a:link, nav a:visited {
+  color: #fff;
+}
+
+nav a:hover {
+  color: #6987bf;
+}
+
+nav a:active {
+  color: #334b78;
+}
+
+main {
+  margin: 25px 20px 0;
+}
+
+p {
+  margin-left: 20px;
+  margin-right: 20px;
+  line-height: 1.2rem;
+}
+
+li {
+  line-height: 1.5rem;
+}
+
+dt {
+  line-height: 0;
+}
+
+a:link {
+  color: #334b78;
+}
+
+a:visited, a:active {
+  color: #496faa;
+}
+
+a:hover {
+  color: #6987bf;
+}
+
+figcaption {
+  font-family: 'Josefin Sans', serif;
+}
+
+footer {
+  padding: 20px; /*I kept the padding in because removing it pushed the footer text too close to the body on each page. Please let me know if there's a better way to do this. Thank you.*/
+  text-align: center;
+}
