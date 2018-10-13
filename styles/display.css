@@ -7,8 +7,8 @@ figure {
 
 figure img {
   width: 765px;
-  height: 990px;
-  margin: 0 auto;
+  /* height: 990px; */
+  margin: 10px auto;
 }
 
 figcaption {

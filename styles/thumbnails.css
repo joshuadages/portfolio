@@ -1,11 +1,12 @@
 figure {
-  /*outline: 2px solid red;*/
+  /* outline: 2px solid red; */
   width: 900px;
   margin: 0 auto;
+  text-align: center;
 }
 
 figure img {
-  margin: 50px 75px 0;
-  width: 300px;
-  height: 388px;
+  margin: 50px 25px 0 25px;
+  width: 350px;
+  /* height: 388px; */
 }
