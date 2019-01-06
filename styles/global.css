@@ -5,6 +5,8 @@ html {
   background-color: #fff;
   color: #000;
   font-size: 16px;
+  width: 100%;
+  height: 100%;
 }
 
 body {
@@ -111,6 +113,38 @@ figcaption {
   font-family: 'oswald', sans-serif;
   font-weight: 400;
   font-style: normal;
+}
+
+.left-top {
+  position: absolute;
+  bottom: 300px;
+  left: 100px;
+  font-family: 'oswald', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #BFBFBF;
+  font-size: 1.3rem;
+  line-height: 1.5rem;
+}
+
+.left-bottom {
+  position: absolute;
+  bottom: 270px;
+  left: 100px;
+  font-family: 'ff-market-web', sans-serif;
+  font-size: 1rem;
+  color: #ef6b30;
+  line-height: 1rem;
+}
+
+.joshua-link, .joshua-link:visited{
+  text-decoration: none;
+  color: #BFBFBF;
+}
+
+.joshua-link:hover {
+  text-decoration: none;
+  color: #808080;
 }
 
 footer {
