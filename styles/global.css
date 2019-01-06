@@ -118,7 +118,7 @@ figcaption {
 .left-top {
   position: absolute;
   bottom: 300px;
-  left: 100px;
+  left: 150px;
   font-family: 'oswald', sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -130,14 +130,14 @@ figcaption {
 .left-bottom {
   position: absolute;
   bottom: 270px;
-  left: 100px;
+  left: 150px;
   font-family: 'ff-market-web', sans-serif;
   font-size: 1rem;
   color: #ef6b30;
   line-height: 1rem;
 }
 
-.joshua-link, .joshua-link:visited{
+.joshua-link:link, .joshua-link:visited{
   text-decoration: none;
   color: #BFBFBF;
 }
