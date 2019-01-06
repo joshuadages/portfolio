@@ -11,20 +11,20 @@ body {
   width: 960px;
   margin: 0 auto;
   /* border: 2px solid #ccc; */
-  font-family: 'lato', sans-serif;
+  font-family: 'open-sans', sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 h1 {
   font-size: 1.3rem;
-  color: #334b78;
+  color: #BFBFBF;
   line-height: 1.5rem;
 }
 
 h2 {
   font-size: 1rem;
-  color: #000;
+  color: #BFBFBF;
   line-height: 1rem;
 }
 
@@ -41,7 +41,7 @@ header img {
 
 nav {
   padding: 20px 0 50px 0;
-  font-family: 'trade-gothic-next', sans-serif;
+  font-family: 'open-sans', sans-serif;
   font-weight: 700;
   font-style: normal;
   text-align: center;
@@ -65,15 +65,15 @@ nav a {
 }
 
 nav a:link, nav a:visited {
-  color: #334b78;
+  color: #BFBFBF;
 }
 
 nav a:hover {
-  color: #6987bf;
+  color: #404040;
 }
 
 nav a:active {
-  color: #6987bf;
+  color: #808080;
 }
 
 main {
@@ -95,19 +95,19 @@ dt {
 }
 
 a:link {
-  color: #334b78;
+  color: #BFBFBF;
 }
 
 a:visited, a:active {
-  color: #496faa;
+  color: #BFBFBF;
 }
 
 a:hover {
-  color: #6987bf;
+  color: #BFBFBF;
 }
 
 figcaption {
-  font-family: 'lato', sans-serif;
+  font-family: 'oswald', sans-serif;
   font-weight: 400;
   font-style: normal;
 }
