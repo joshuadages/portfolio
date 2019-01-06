@@ -17,8 +17,9 @@ body {
 }
 
 h1 {
-  font-size: 1.3rem;
-  color: #BFBFBF;
+  font-family: 'ff-market-web', sans-serif;
+  font-size: 1.5rem;
+  color: #ef6b30;
   line-height: 1.5rem;
 }
 
