@@ -6,7 +6,8 @@ figure {
 }
 
 figure img {
-  margin: 50px 25px 0 25px;
-  width: 350px;
-  /* height: 388px; */
+  outline: 2px solid #ef6b30;
+  margin: 0px 10px 25px 10px;
+  width: 275px;
+  /* height: 191px; */
 }
