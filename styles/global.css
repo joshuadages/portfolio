@@ -19,7 +19,7 @@ body {
   margin: 0 auto;
   /* border: 2px solid #ccc; */
   font-family: 'open-sans', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
 }
 
@@ -40,6 +40,7 @@ h2 {
 
 h3 {
   font-family: 'oswald', sans-serif;
+  /* font-weight: 400; */
   font-size: 1rem;
   color: #BFBFBF;
   line-height: 1rem;
@@ -60,7 +61,7 @@ header img {
 nav {
   padding: 20px 0 50px 0;
   font-family: 'open-sans', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   font-style: normal;
   text-align: center;
   text-transform: uppercase;
@@ -160,6 +161,41 @@ figcaption {
 .joshua-link:hover {
   text-decoration: none;
   color: #808080;
+}
+
+.project-display-title {
+  font-family: 'oswald', sans-serif;
+  font-weight: 400;
+  font-size: 1.3rem;
+  color: #BFBFBF;
+  line-height: 1.5rem;
+  padding-top: 15px;
+}
+
+.project-display-sub {
+  font-family: 'ff-market-web', sans-serif;
+  font-size: 1rem;
+  color: #ef6b30;
+  line-height: 2.5rem;
+  letter-spacing: 1px;
+}
+
+.project-display-details {
+  font-family: 'open-sans', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #BFBFBF;
+  line-height: 1.2rem;
+}
+
+.project-display-text {
+  font-family: 'open-sans', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #BFBFBF;
+  line-height: 1.3rem;
+  width: 50%;
+  margin-top: 15px;
 }
 
 footer {
