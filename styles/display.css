@@ -1,18 +1,17 @@
 figure {
-  /*outline: 2px solid red;*/
+  /* outline: 2px solid red; */
   width: 900px;
-  margin: 50px auto;
-  text-align: center;
+  margin: 0;
+  text-align: left;
 }
 
 figure img {
   width: 765px;
-  /* height: 990px; */
-  margin: 10px auto;
+  margin: 25px 0 35px 0;
 }
 
 figcaption {
   font-family: 'open-sans', serif;
-  margin: 20px auto;
+  margin: 5px auto;
   text-align: center;
 }
