@@ -163,57 +163,6 @@ figcaption {
   color: #808080;
 }
 
-.project-display-title {
-  font-family: 'oswald', sans-serif;
-  font-weight: 400;
-  font-size: 1.3rem;
-  color: #BFBFBF;
-  line-height: 1.5rem;
-  padding-top: 15px;
-}
-
-.project-display-sub {
-  font-family: 'ff-market-web', sans-serif;
-  font-size: 1rem;
-  color: #ef6b30;
-  line-height: 2.5rem;
-  letter-spacing: 1px;
-}
-
-.project-display-details {
-  font-family: 'open-sans', sans-serif;
-  font-weight: 300;
-  font-size: 1rem;
-  color: #BFBFBF;
-  line-height: 1.2rem;
-}
-
-.project-display-text {
-  font-family: 'open-sans', sans-serif;
-  font-weight: 300;
-  font-size: 1rem;
-  color: #BFBFBF;
-  line-height: 1.3rem;
-  width: 60%;
-  margin-top: 15px;
-}
-
-.ice-logo {
-  width: 50px;
-  height: auto;
-  text-align: left;
-  margin-top: 15px;
-  margin-bottom: 15px;
-}
-
-.josh-ice-logo {
-  width: 50px;
-  height: auto;
-  text-align: left;
-  margin-top: 15px;
-  margin-bottom: 35px;
-}
-
 footer {
   padding: 30px;
   text-align: center;
