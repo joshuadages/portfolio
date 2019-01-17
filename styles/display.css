@@ -66,3 +66,11 @@ figcaption {
   margin: 35px 0 35px 50px;
   /* margin-bottom: 35px; */
 }
+
+.wallpaper img {
+  width: 300px;
+  height: auto;
+  text-align: left;
+  margin: 35px 0 35px 0;
+  /* margin-bottom: 35px; */
+}
