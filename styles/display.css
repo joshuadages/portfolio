@@ -2,11 +2,11 @@ figure {
   /* outline: 2px solid red; */
   width: 900px;
   margin: 0;
-  text-align: left;
+  text-align: center;
 }
 
 figure img {
-  width: 765px;
+  width: 900px;
   margin: 25px 0 35px 0;
 }
 
