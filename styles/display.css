@@ -74,3 +74,11 @@ figcaption {
   margin: 35px 0 35px 0;
   /* margin-bottom: 35px; */
 }
+
+.alphabet img {
+  width: 9%;
+  height: auto;
+  text-align: left;
+  margin: 25px 2% 25px 2%;
+  /* margin-bottom: 35px; */
+}
